@@ -1,0 +1,10 @@
+# requirements.txt generated from analysis of '/mnt/data/1v0 - Save Button.py'
+# NOTE: 'Pillow' is the package that provides the 'PIL' module.
+# PyTorch (torch) often requires platform-specific wheels (CUDA vs CPU). If you need a CPU-only wheel
+# consider following PyTorch's official install selector (https://pytorch.org/get-started/locally/).
+
+Pillow
+PyQt6
+diffusers
+transformers
+torch
